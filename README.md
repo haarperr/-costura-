@@ -10,18 +10,26 @@ adicionar o grupo Costureiro
 vrp/cfg/groups.lua
 
 ["Costura"] = {
+
 	_config = {
+	
 		title = "Costura",
+		
 		gtype = "job"
+		
 		},
+		
 		"costura.permissao"
+		
 	},
 
 adicionar os itens  
 vrp/cfg/items.lua
 
 ["pano"] = {"Tecido", 0.3},
+
 ["colete"] = {"Colete", 1.5},
+
 ["linha"] = {"Linha de Costura", 0.1},
 
 blip do local 
