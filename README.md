@@ -12,15 +12,10 @@ vrp/cfg/groups.lua
 ["Costura"] = {
 
 	_config = {
-	
 		title = "Costura",
-		
 		gtype = "job"
-		
 		},
-		
-		"costura.permissao"
-		
+		"costura.permissao"	
 	},
 
 adicionar os itens  
